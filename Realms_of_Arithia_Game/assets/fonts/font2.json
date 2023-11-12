@@ -1,0 +1,31 @@
+{
+  "familyName": "ArithianSerif",
+  "ascender": 800,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {
+    "xMin": -50,
+    "xMax": 1000,
+    "yMin": -250,
+    "yMax": 1000
+  },
+  "resolution": 1000,
+  "glyphs": {
+    "0": {
+      "xMin": 0,
+      "xMax": 600,
+      "yMin": 0,
+      "yMax": 700,
+      "advanceWidth": 610
+    },
+    "1": {
+      "xMin": 50,
+      "xMax": 550,
+      "yMin": 0,
+      "yMax": 700,
+      "advanceWidth": 610
+    },
+    // Additional glyphs would be defined here...
+  }
+}

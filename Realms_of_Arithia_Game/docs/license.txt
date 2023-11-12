@@ -1,0 +1,19 @@
+Realms of Arithia Game License
+
+Copyright (c) [Year], Realms of Arithia Development Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this game and associated documentation files (the "Game"), to deal in the Game without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Game, and to permit persons to whom the Game is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Game.
+
+THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE GAME OR THE USE OR OTHER DEALINGS IN THE GAME.
+
+All in-game assets, including but not limited to characters, environments, textures, audio, and fonts, are the intellectual property of the Realms of Arithia Development Team and are protected by copyright and other intellectual property laws.
+
+The integration of the Arbitrum blockchain technology within the Game is subject to the terms of the Arbitrum blockchain itself, and the use of blockchain-related features such as smart contracts, tokenized in-game currency, and assets, and decentralized governance is governed by the respective smart contract terms and blockchain protocols.
+
+This license does not grant any rights to use the name "Realms of Arithia" or any of the game's trademarks, logos, domain names, and other distinctive brand features.
+
+All contributions by third parties to the Game are governed by the respective contributor's license agreements.
+
+This license may be updated or replaced by the Realms of Arithia Development Team at any time.

@@ -1,0 +1,109 @@
+/* Main Stylesheet for Realms of Arithia Game UI */
+
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Main Container */
+#world-container {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+/* UI Elements */
+#inventory,
+#chat-window,
+#marketplace,
+#settings-panel {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 10;
+}
+
+/* Inventory Styles */
+#inventory {
+  top: 10px;
+  right: 10px;
+  width: 250px;
+}
+
+/* Chat Window Styles */
+#chat-window {
+  bottom: 10px;
+  left: 10px;
+  width: 300px;
+  height: 200px;
+}
+
+/* Marketplace Styles */
+#marketplace {
+  bottom: 10px;
+  right: 10px;
+  width: 250px;
+}
+
+/* Settings Panel Styles */
+#settings-panel {
+  top: 10px;
+  left: 10px;
+  width: 200px;
+}
+
+/* Player Avatar Styles */
+#player-avatar {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Button Styles */
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* Font Styles */
+@font-face {
+  font-family: 'GameFont';
+  src: url('../assets/fonts/font1.json');
+}
+
+body {
+  font-family: 'GameFont', Arial, sans-serif;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  #inventory,
+  #chat-window,
+  #marketplace,
+  #settings-panel {
+    width: 100%;
+    height: auto;
+    position: static;
+    margin-bottom: 10px;
+  }
+
+  #player-avatar {
+    position: static;
+    transform: none;
+    margin: 0 auto;
+  }
+}
